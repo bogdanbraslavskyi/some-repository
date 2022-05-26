@@ -1,1 +1,1 @@
-echo "YYYY";
+echo "Some string";
